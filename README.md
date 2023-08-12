@@ -1,2 +1,2 @@
 # RHD AK
-|Simple vehicle deleter|
+**|Simple vehicle deleter|**
